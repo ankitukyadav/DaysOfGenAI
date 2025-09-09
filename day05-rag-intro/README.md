@@ -18,3 +18,6 @@ The Python script `simple_rag.py` demonstrates:
 1. Install dependencies:
    ```bash
    pip install openai faiss-cpu numpy
+2. Add your OpenAI API key to the script.
+3. Run the script:
+python code/simple_rag.py
