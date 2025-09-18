@@ -1,7 +1,7 @@
-# Day 16: Responsible AI—Privacy, Bias & Governance in GenAI
+# Day 15: Responsible AI—Privacy, Bias & Governance in GenAI
 
 ## Overview
-Day 16 covers responsible AI: protecting privacy, reducing bias, and setting governance for GenAI systems.
+Day 15 covers responsible AI: protecting privacy, reducing bias, and setting governance for GenAI systems.
 
 ## What You'll Learn
 - How to check for PII in LLM outputs
